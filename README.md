@@ -20,6 +20,10 @@
 
 ![icons8-телеграмма-app-20](https://user-images.githubusercontent.com/104506032/204129658-a77cee69-4a1c-4df3-94a6-84f87e4fbe97.png) @alinarashitova01
 
+Мля статистика:
+
+![Alina Rashitova's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlinaRashitova&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlinaRashitova&layout=compact)](https://github.com/AlinaRashitova/github-readme-stats)
 
 
 
