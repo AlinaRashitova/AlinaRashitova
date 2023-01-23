@@ -7,7 +7,7 @@
 * научиться писать чистый и понятный код
 * освоить React.js
 * работать в опытной и сплоченной команде
-* изучить TypeScript, CSS-processors
+* изучить TypeScript, CSS-processors и Node.js
 
 
 Мой стек:
