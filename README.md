@@ -4,10 +4,10 @@
 
 Мои цели:
 
-* ![icons8-ручка-в-руке-20](https://user-images.githubusercontent.com/104506032/204128801-c27bc1ef-e280-41e6-ab9d-ab6cb51bf367.png) научиться писать чистый и понятный код
-* ![icons8-реакция-20 (1)](https://user-images.githubusercontent.com/104506032/204128784-15ca8f87-2214-4a5b-841c-3a9381725ef5.png) освоить React.js
-* ![icons8-группа-пользователей,-мужчина-и-женщина-20](https://user-images.githubusercontent.com/104506032/204128660-fae433fa-e60b-44b1-9c16-8a79a4c01bf8.png) работать в опытной и сплоченной команде
-* ![icons8-typescript-20](https://user-images.githubusercontent.com/104506032/204128839-ffd55522-ffad-4d25-b6cc-57aa31e7a70f.png) изучить TypeScript
+* научиться писать чистый и понятный код
+* освоить React.js
+* работать в опытной и сплоченной команде
+* изучить TypeScript, CSS-processors
 
 
 Мой стек:
