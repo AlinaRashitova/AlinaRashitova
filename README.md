@@ -12,7 +12,8 @@
 
 Мой стек:
 
-![icons8-visual-studio-code-2019-30](https://user-images.githubusercontent.com/104506032/204128441-fe3d75fd-5bb8-4341-bf1f-7b598faba96a.png) ![icons8-html-5-30](https://user-images.githubusercontent.com/104506032/204128401-4b085764-ca58-46c5-9b3d-3c7c4c680a0b.png) ![icons8-cascading-style-sheets-language-used-for-describing-the-presentation-of-a-document-30](https://user-images.githubusercontent.com/104506032/204128475-80e9e99a-20db-494f-89b5-220ffd5abd28.png) ![icons8-javascript-30](https://user-images.githubusercontent.com/104506032/204128496-5a02dbaf-e5f1-4952-bf50-c1ecd5e22c8e.png) ![icons8-git-в-квадрате-30](https://user-images.githubusercontent.com/104506032/204128513-a08cd9b7-801d-408b-9bb7-bacb3bc72a7b.png)
+![icons8-visual-studio-code-2019-30](https://user-images.githubusercontent.com/104506032/204128441-fe3d75fd-5bb8-4341-bf1f-7b598faba96a.png) ![icons8-html-5-30](https://user-images.githubusercontent.com/104506032/204128401-4b085764-ca58-46c5-9b3d-3c7c4c680a0b.png) ![icons8-cascading-style-sheets-language-used-for-describing-the-presentation-of-a-document-30](https://user-images.githubusercontent.com/104506032/204128475-80e9e99a-20db-494f-89b5-220ffd5abd28.png) ![icons8-javascript-30](https://user-images.githubusercontent.com/104506032/204128496-5a02dbaf-e5f1-4952-bf50-c1ecd5e22c8e.png) ![icons8-git-в-квадрате-30](https://user-images.githubusercontent.com/104506032/204128513-a08cd9b7-801d-408b-9bb7-bacb3bc72a7b.png)https://www.javatpoint.com/js/nodejs/images/node-js-tutorial.png
+
 
 Мои контакты: 
 
