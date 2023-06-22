@@ -13,7 +13,7 @@
 
 ## Contacts:
 
-email: alinarashitova01@gmail.com
+email: [alinarashitova01@gmail.com](mailto:alinarashitova01@gmail.com)
 
 telegram: [@alinarashitova01](https://t.me/alinarashitova01)
 
